@@ -2,12 +2,14 @@
   "name": "Drive-stream-repo",
   "description": "Ein CloudStream-Repository mit Filmen von Google Drive.",
   "baseUrl": "https://drive.google.com/uc?id=1gcXKNui0fHSCCbuqos0r1uN7qmnuLO0t",
-  "content": ["Beetlejuice Beetlejuice.mp4"]
+  "content": [
     {
       "name": "Beetlejuice",
+      "file": "Beetlejuice Beetlejuice.mp4",
       "url": "1gcXKNui0fHSCCbuqos0r1uN7qmnuLO0t",
       "type": "movie",
       "poster": "https://via.placeholder.com/300x450?text=Film+Poster",
-      "quality": "1080p",
-    
+      "quality": "1080p"
+    }
+  ]
 }
